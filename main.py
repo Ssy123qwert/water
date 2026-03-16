@@ -80,11 +80,11 @@ def highlight_print(text: str, color: str = Colors.YELLOW, bold: bool = True, bg
 
 # 填入tokens
 TOKENS = [
-    'aee8eb199da306b6acc960ca88301a9e',
+    "23d10144369a3806f90bb8f17f48565f",
     ]
 
 # 用户代理
-USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 SLBrowser/9.0.7.12231 SLBChan/111 SLBVPV/64-bit"
+USER_AGENT = "Mozilla/5.0 (Linux; U; Android 14; zh-cn; RMX3706 Build/UKQ1.230924.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 HeyTapBrowser/40.10.10.1"
 
 # 跳过的任务代码列表
 NOT_FINISH_TASKS = [
