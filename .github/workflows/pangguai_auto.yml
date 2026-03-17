@@ -4,7 +4,7 @@ name: 胖乖自动任务定时执行
 on:
   schedule:
     # 北京时间 8:00 → UTC 0:00
-    - cron: '0 0 * * *'
+    - cron: '5 0 * * *'
   # 手动触发开关（测试用）
   workflow_dispatch:
 
