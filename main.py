@@ -84,7 +84,7 @@ TOKENS = [
     ]
 
 # 用户代理
-USER_AGENT = "Mozilla/5.0 (Linux; U; Android 15; zh-cn; RMX3800 Build/UKQ1.231108.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 HeyTapBrowser/40.10.12.1"
+USER_AGENT = "Mozilla/5.0 (Linux; U; Android 14; zh-cn; RMX3706 Build/UKQ1.230924.001) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.168 Mobile Safari/537.36 HeyTapBrowser/40.10.10.1"
 
 # 跳过的任务代码列表
 NOT_FINISH_TASKS = [
